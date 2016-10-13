@@ -99,15 +99,15 @@ The *requirements.txt* file is present in the repo.
 
 Downloading all ebooks from "Programming"
 
-![Downloading ebooks in "Programming"](http://i.imgur.com/NCK34Ka.png)
+![Downloading ebooks in "Programming"](http://i.imgur.com/.png)
 ---
 
 Help Options
 
-![Help Options](http://i.imgur.com/I6pbdHj.png)
+![Help Options](http://i.imgur.com/.png)
 ---
 
 Directory structure.
 
-![Usage Demo and Directory Structure made](https://i.imgur.com/W7D4YAL.png)
+![Usage Demo and Directory Structure made](https://i.imgur.com/.png)
 ---
