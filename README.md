@@ -111,3 +111,8 @@ Directory structure.
 
 ![Usage Demo and Directory Structure made](https://i.imgur.com/.png)
 ---
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/nntoan/ebookscrapper/badge.svg?style=beer-square)](https://beerpay.io/nntoan/ebookscrapper)  [![Beerpay](https://beerpay.io/nntoan/ebookscrapper/make-wish.svg?style=flat-square)](https://beerpay.io/nntoan/ebookscrapper?focus=wish)
