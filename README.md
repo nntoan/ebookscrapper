@@ -29,7 +29,7 @@ It is simple, easy, and fast command line tool to download ebook's and save them
 
 Ebook's are scrapped from [AllItEbooks](http://www.allitebook.com/). All these customizations are provided by this tool in addition to several others.
 
-** EbookScrapper** makes use of 3rd party libraries for HTTP Requests and HTML processing. You need to fulfill these requirements before using this tool.
+**EbookScrapper** makes use of 3rd party libraries for HTTP Requests and HTML processing. You need to fulfill these requirements before using this tool.
 
 Fulfill the requirements by executing the following in bash shell.
 
